@@ -1,0 +1,39 @@
+
+body{
+    background-image: url('https://img.freepik.com/premium-photo/herbs-and-spices-on-wooden_182252-3673.jpg?w=360');
+    background-repeat: no-repeat;
+    background-size: 1380px 820px ;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1080px;
+}
+.center{
+    display: flex;
+    flex-flow: column;
+    margin-left: 54%;
+    margin-top: 150px;
+}
+.about-us{
+    font-size: 30px;
+    margin-left: -150px;
+}
+.s{
+    padding-left: 30px;
+}
+.t{
+    padding-left: 150px;
+}
+.magazin{
+    margin-top: 30px;
+    font-size: 30px;
+}
+a{
+    color: black;
+}
+.blogs{
+    margin-top: 30px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+
